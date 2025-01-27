@@ -10,7 +10,7 @@
 - 🖥️ Ingeniería de Sistemas
 - 🛡️ Ciberseguridad
 - 🌐 Seguridad de Redes
-- 🔍 Pruebas de Penetración
+- 🔍 Pentesting
 
 ## Enfoque Actual
 Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis particular en hacking ético. Siempre estoy dispuesto a colaborar en proyectos innovadores que desafíen y mejoren mis habilidades en estas áreas.
