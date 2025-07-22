@@ -2,7 +2,7 @@
 
 ## Sobre Mí
 - 👋 Hola, soy @TomasGutierrezOrozco
-- 🎓 Estudiante de Ingeniería de Sistemas (7mo semestre) en la Universidad Pontificia Bolivariana
+- 🎓 Estudiante de Ingeniería de Sistemas (8vo semestre) en la Universidad Pontificia Bolivariana
 - 🔒 Entusiasta de la Ciberseguridad
 - 🌱 Actualmente perfeccionando mis habilidades en la academia Hack4u
 
@@ -28,7 +28,7 @@ Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis partic
 
 ## About Me
 - 👋 Hello, I'm @TomasGutierrezOrozco
-- 🎓 Systems Engineering student (7th semester) at Universidad Pontificia Bolivariana
+- 🎓 Systems Engineering student (8th semester) at Universidad Pontificia Bolivariana
 - 🔒 Cybersecurity enthusiast
 - 🌱 Currently enhancing my skills at Hack4u academy
 
