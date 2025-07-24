@@ -1,5 +1,3 @@
-# Tomás Gutiérrez Orozco
-
 ## Sobre Mí
 - 👋 Hola, soy @TomasGutierrezOrozco
 - 🎓 Estudiante de Ingeniería de Sistemas (8vo semestre) en la Universidad Pontificia Bolivariana
@@ -23,8 +21,6 @@ Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis partic
 ![Estadísticas de GitHub de Tomás](https://github-readme-stats.vercel.app/api?username=TomasGutierrezOrozco&show_icons=true&theme=radical)
 
 ---
-
-# Tomás Gutiérrez Orozco
 
 ## About Me
 - 👋 Hello, I'm @TomasGutierrezOrozco
