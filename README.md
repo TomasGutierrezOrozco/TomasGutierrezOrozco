@@ -17,9 +17,6 @@ Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis partic
 - 📧 Correo electrónico: tgutierrezorozco@gmail.com
 - 🔗 LinkedIn: [Tomás Gutiérrez Orozco](https://co.linkedin.com/in/tom%C3%A1s-guti%C3%A9rrez-orozco-74ba09328)
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub de Tomás](https://github-readme-stats.vercel.app/api?username=TomasGutierrezOrozco&show_icons=true&theme=radical)
-
 ---
 
 ## About Me
@@ -40,9 +37,6 @@ I'm dedicated to expanding my knowledge in cybersecurity, with a particular emph
 ## Contact Information
 - 📧 Email: tgutierrezorozco@gmail.com
 - 🔗 LinkedIn: [Tomás Gutiérrez Orozco](https://co.linkedin.com/in/tom%C3%A1s-guti%C3%A9rrez-orozco-74ba09328)
-
-## GitHub Statistics
-![Tomás's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomasGutierrezOrozco&show_icons=true&theme=radical)
 
 
 <!---
